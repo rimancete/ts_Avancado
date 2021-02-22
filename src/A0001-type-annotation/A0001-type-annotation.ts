@@ -14,7 +14,7 @@ let arrayDeStrings: Array<string> = ['a', 'bcd', 'oi'];
 let arrayDeStrings2: string[] = ['a', 'bcd', 'oi'];
 
 // Objetos
-let pessoa: {nome: string, idade: number, adulto?: boolean} ={
+export let pessoa: {nome: string, idade: number, adulto?: boolean} ={
   nome: 'Osvaldo',
   idade: 123,
 };
@@ -25,3 +25,4 @@ function soma(x: number, y: number): number {
 }
 
 const soma2: (x: number, y: number) => number = (x, y) => x + y;
+

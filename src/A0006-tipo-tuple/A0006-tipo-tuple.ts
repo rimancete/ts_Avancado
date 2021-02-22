@@ -14,6 +14,7 @@ const dadosCliente4: [number, string, ...string[]] = [
 console.log(dadosCliente1);
 console.log(dadosCliente2);
 console.log(dadosCliente3);
+console.log(dadosCliente4);
 
 // readonly Array
 const array: readonly string[] = ['Osvaldo', 'Costa', 'Masculino'];
