@@ -1,9 +1,10 @@
-import path from 'path';
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const path = require('path');
 
 module.exports = {
   // enquanto em dev
   mode: 'development',
-  entry: './src/A0034-interfaces/A0034-interfaces.ts',
+  entry: './src/A0036-mais-interfaces/A0036-mais-interfaces.ts',
   module: {
     rules: [
       {
