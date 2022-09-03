@@ -3,7 +3,7 @@ import path from 'path';
 module.exports = {
   // enquanto em dev
   mode: 'development',
-  entry: './src/A0030-associacao/A0030-associacao.ts',
+  entry: './src/A0034-interfaces/A0034-interfaces.ts',
   module: {
     rules: [
       {
