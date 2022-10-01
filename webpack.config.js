@@ -4,7 +4,7 @@ const path = require('path');
 module.exports = {
   // enquanto em dev
   mode: 'development',
-  entry: './src/A0047-generics-5/A0047-generics-5.ts',
+  entry: './src/A0050-generic-8/A0050-generic-8.ts',
   module: {
     rules: [
       {
